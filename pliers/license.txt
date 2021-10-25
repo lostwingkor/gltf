@@ -1,0 +1,11 @@
+Model Information:
+* title:	Well Worn Pliers
+* source:	https://sketchfab.com/3d-models/well-worn-pliers-078938224fef4854aeacb95db03eb574
+* author:	Bogaerts.Quinn (https://sketchfab.com/Bogaerts.Quinn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Well Worn Pliers" (https://sketchfab.com/3d-models/well-worn-pliers-078938224fef4854aeacb95db03eb574) by Bogaerts.Quinn (https://sketchfab.com/Bogaerts.Quinn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

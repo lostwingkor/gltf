@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Sword of Aragorn - Andúril (High Poly)
+* source:	https://sketchfab.com/3d-models/the-sword-of-aragorn-anduril-high-poly-1bfbdb13c6cb4d29988ceae4a1965589
+* author:	Morvos (https://sketchfab.com/morvos)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Sword of Aragorn - Andúril (High Poly)" (https://sketchfab.com/3d-models/the-sword-of-aragorn-anduril-high-poly-1bfbdb13c6cb4d29988ceae4a1965589) by Morvos (https://sketchfab.com/morvos) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
